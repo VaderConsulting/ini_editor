@@ -1,6 +1,6 @@
 # ini_editor
 
-VB6 working copy of `ini_editor` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Project1. `VersionCompanyName`: LenSoft Inc..
+LenSoft Inc. VB6 INI reader/editor sample (`ini reader.vbp`; form shipped as `ini reader.frm.example`) for viewing and editing classic Windows `.ini` files. Distinct from sibling repos `INIEditor` and `inifiletotreeview`. Open `ini reader.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
